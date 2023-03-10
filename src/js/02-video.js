@@ -10,3 +10,5 @@ import Player from '@vimeo/player';
     player.getVideoTitle().then(function(title) {
         console.log('title:', title);
     });
+
+console.log('end');
