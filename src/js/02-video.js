@@ -1,7 +1,7 @@
 import Player from '@vimeo/player';
 
 const player = new Player('handstick', {
-    id: 19231868,
+    id: 236203659,
     width: 640
 });
 
