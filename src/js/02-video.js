@@ -5,6 +5,8 @@ const player = new Player('handstick', {
     width: 640
 });
 
+console.log(player);
+
 player.on('play', function() {
     console.log('played the video!');
 });
